@@ -5,7 +5,7 @@ data with time-varying covariates: Application to Alzheimer’s
 disease’
 
 ## Files
-\item ADNI_pred.R: code for applying the MFPC-NN-IC model to the ADNI (Alzheimer’s Disease Neuroimaging Initiative) dataset.
+**` ADNI_pred.R `**: code for applying the MFPC-NN-IC model to the ADNI (Alzheimer’s Disease Neuroimaging Initiative) dataset.
 
 \item MFPCA_fun.r: functions to perform Multivariate Functional Principal Component Analysis (MFPCA).
 
